@@ -23,10 +23,6 @@
 * ViewPager2
 
 ## 소개
-프로젝트 상세보기 공동 구현 o  
-
-채팅방 구현 o  
-
 <img src = "https://user-images.githubusercontent.com/51706367/113730103-8d513300-9732-11eb-94f2-563b7dd1b5bf.jpg" width="165px"> <img src = "https://user-images.githubusercontent.com/51706367/113730101-8c200600-9732-11eb-85f4-afde093c871a.jpg" width="165px">  
 홈 프래그먼트 (프로젝트 리스트, 유저 점수 랭킹, 뷰 페이저) 구현  
 
