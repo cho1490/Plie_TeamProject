@@ -24,10 +24,7 @@
 
 ## 소개
 https://play.google.com/store/apps/details?id=org.fakedev.plie.release
-
-
-## 담당
-채팅 기능을 담당하였습니다.
+저는 채팅 기능을 담당하였습니다.
 
 ## 느낀점
 * 팀 프로젝트로써 같이 작업을 해야 해서 변수 네이밍 규칙의 중요성을 깨달았습니다
