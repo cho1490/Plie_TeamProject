@@ -23,7 +23,7 @@
 * ViewPager2
 
 ## 소개
-https://play.google.com/store/apps/details?id=org.fakedev.plie.release
+https://play.google.com/store/apps/details?id=org.fakedev.plie.release   
 저는 채팅 기능을 담당하였습니다.
 
 ## 느낀점
