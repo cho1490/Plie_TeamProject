@@ -9,7 +9,6 @@
 * Git
 * Slack
 * Google Docs
-* 개발인원 5명
 
 ## 라이브러리 
 * Firebase
